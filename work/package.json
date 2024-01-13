@@ -1,0 +1,22 @@
+{
+  "name": "folio",
+  "version": "1.0.0",
+  "description": "we create something",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass":"node-sass sass/main.scss css/style.css -w" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SudipNeupane1/Newprojsass.git"
+  },
+  "author": "Neupanes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SudipNeupane1/Newprojsass/issues"
+  },
+  "homepage": "https://github.com/SudipNeupane1/Newprojsass#readme",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
